@@ -11,7 +11,7 @@
 [![bcrypt](https://img.shields.io/npm/v/bcrypt?label=bcrypt)](https://www.npmjs.com/package/bcrypt)
 [![multer](https://img.shields.io/npm/v/multer?label=multer)](https://www.npmjs.com/package/multer)
 [![nodemailer](https://img.shields.io/npm/v/nodemailer?label=nodemailer)](https://www.npmjs.com/package/nodemailer)
-[![midtrans](https://img.shields.io/npm/v/midtrans?label=midtrans)](https://www.npmjs.com/package/midtrans)
+[![midtrans](https://img.shields.io/npm/v/midtrans?label=midtrans)](https://www.npmjs.com/package/midtrans-client)
 
 
 <br/>
