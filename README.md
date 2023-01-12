@@ -28,7 +28,7 @@ Lepisa Tickitz is an online ticket purchase service for cinema.
 - [Run Application](#run-application)
 - [Postman Documentation](#postman-documentation)
 - [Related Project](#related-project)
-- [Contributors](#contributors
+- [Contributors](#contributors)
 
 ## API Endpoint
 
