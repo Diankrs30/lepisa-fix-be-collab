@@ -111,7 +111,7 @@ You may also see any lint errors in the console.
 [Lepisa Tickitz Github link](https://github.com/farisan/lepisa-fe)
 [Lepisa Tickitz App link](https://lepisa-fe.vercel.app/)
 
-## Contributor
+## Contributors
 <center>
   <table>
     <tr>
